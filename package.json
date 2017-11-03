@@ -46,6 +46,7 @@
         "strsplit": "1.0.0",
         "manta": "5.1.0",
         "nodeunit": "0.9.1",
+        "tape": "4.8.0",
         "node-uuid": "1.4.1"
     },
     "scripts": {
